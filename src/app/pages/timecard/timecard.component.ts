@@ -6,8 +6,7 @@ import { Router } from '@angular/router';
     selector: 'app-tv-schedule',
     templateUrl: './timecard.component.html',
     styleUrls: ['./timecard.component.scss'],
-    providers: [
-    ]
+    providers: []
 })
 export class TimecardComponent implements OnInit {
     selectedDate
